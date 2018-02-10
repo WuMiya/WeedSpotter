@@ -14,6 +14,7 @@ itself more user friendly and serves the purpose of speeding up the weed spottin
 process for the weed spotters.
 
 GPS coordinate function
+
 The main purpose of the application is to allow users to collect all the information
 about the plant or weed spotted within the application. Therefore, the application will
 ask the user for the permission to use the user’s current mobile location. This would
@@ -22,6 +23,7 @@ learning the user’s location can make Queensland Herbarium to identify the wee
 spotted more efficient.
 
 Camera function
+
 The client has specifically requested to have a camera function integrated into the
 application. This is required since the major aim of the application is to ask weed
 spotters to take a photo of the weed or plant they have spotted. The client has made
@@ -30,9 +32,11 @@ leaves of the plant. Then the user would have the option to take a photo of the
 plant’s flowers and fruits if spotted.
 
 Plant information
+
 The most important part of the application is the plant information page. Since this
 section asks the weed spotters to enter information of the plant or weed spotted. The
 information the user is required to fill in are the following:
+
 ● The plant is either a grass, herb, shrub, tree or other
 ● The plant is cultivated or growing wild
 ● Contact information.
